@@ -12,7 +12,22 @@ Simon Veljkovic, Agachan Atputharasa
 
 ### 1.1 Ihr Projekt
 
-Wir erstellen ein Umfrage-Tool als Webapplikation mit HTML, CSS und JavaScript, während MongoDB als Backend dient.
+Projektidee
+Wir haben uns als Gruppe dazu entschieden, das Projekt mit den Programmiersprachen HTML, CSS, JavaScript für das Frontend sowie MongoDB für das Backend zu einer Website umzusetzen. Diese Anwendung bietet dem Benutzer die Möglichkeit, eine feste Umfrage auszufüllen und auch eigene Umfragen zu erstellen und zu verwalten. Dabei werden wir die folgenden drei Hauptfunktionen implementieren:
+1.Korrekte Interaktion mit den Buttons: Nur eine Antwortmöglichkeit soll möglich sein.
+2.Login: Die Benutzer sollen sich mit Benutzername und Passwort einloggen können.
+3.Verwaltung: Antworten sollen gespeichert werden und die selbstkreierten Unfragen sollen gespeichert und gelöscht werden können.
+
+Projektorganisation
+Wir haben dieses Projekt organisiert, indem wir eine Discord-Gruppe erstellt haben, GitHub zur Zusammenarbeit genutzt und Daily-Meetings vereinbart haben.
+
+Deklaration der Vorkenntnisse
+HTML: Gute Vorkenntnisse 
+CSS: Gute Vorkenntnisse
+JavaScript: Ordentliche Vorkenntnisse
+MongoDB: Ordentliche Vorkenntnisse
+IPERKA: Sehr gute Kenntnisse, da wir es regelmässig im Lernatelier anwenden.
+
 
 ### 1.2 User Stories
 
