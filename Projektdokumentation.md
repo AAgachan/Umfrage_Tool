@@ -35,7 +35,7 @@ IPERKA: Sehr gute Kenntnisse, da wir es regelmässig im Lernatelier anwenden.
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    | Muss            | Funktional | Als ein User möchte ich, dass ich die Möglichkeit habe, eine fixe Umfrage auszufüllen. |
-| 2    | Muss            | Funktional | Als ein User möchte ich, dass ich mich auf der Website registrieren kann mit Username und Passwort. |                                 | 3    | Muss            | Funktional | Als ein User möchte ich, dass ich eigene Umfragen erstellen kann. |
+| 2    | Muss            | Funktional | Als ein User möchte ich, dass ich mich auf der Website registrieren kann mit Username und Passwort. |                           | 3    | Muss            | Funktional | Als ein User möchte ich, dass ich eigene Umfragen erstellen kann. |
 | 4    | Muss            | Funktional | Als ein User möchte ich, dass ich meine Umfragen speichern und löschen kann. |
 
 
@@ -59,10 +59,31 @@ Die Architektur der App basiert auf einer klaren Trennung der Verantwortlichkeit
 | 3.1  | Website geöffnet | Eigene Umfrage erstellt | Die Umfrage wird automatisch gespeichert |
 | 4.1  | Website geöffnet | Verwaltung der eigenen Umfragen | Bearbeiten/Löschen Button erscheint |
 
+### 2.3 Meilensteine
 
-### 1.4 Diagramme
+Meilenstein 1: Anforderungsanalyse und Entwurf (bis 17.01.2025)
+•	Projektidee und Hauptanforderungen festlegen.
+•	Anwendungsarchitektur und Mockups entwickeln.
 
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
+Meilenstein 2: Grundlegende Funktionalitäten implementieren (bis 31.01.2025)
+•	Benutzeroberfläche entwerfen und erstellen.
+•	Basisfunktion für die Umfragen implementieren.
+
+Meilenstein 3: Erweiterte Funktionen und Speicherung (bis 21.02.2025)
+•	Speicher- und Löschfunktion entwickeln (Backend).
+•	Grafische Auswertung per Diagramme.
+•	PDF und CSV Export implementieren.
+
+Meilenstein 4: Fehlerbehebung und Optimierung (bis 28.02.2025)
+•	Systemtest: Alle Funktionen testen, Fehler beheben.
+•	Allfällige Design-Anpassungen vornehmen.
+
+Meilenstein 5: Projektabschluss (bis 07.03.2025)
+•	Dokumentation vervollständigen.
+•	Endgültige Testberichte erstellen.
+•	Fertige Version auf GitHub bereitstellen.
+•	Portfolioeintrag schreiben und abgeben.
+
 
 ## 3 Entscheiden
 
