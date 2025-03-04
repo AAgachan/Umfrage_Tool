@@ -67,6 +67,7 @@ Meilenstein 1: Anforderungsanalyse und Entwurf (bis 17.01.2025)
 
 Meilenstein 2: Grundlegende Funktionalitäten implementieren (bis 31.01.2025)
 •	Benutzeroberfläche entwerfen und erstellen.
+•	Login implementieren.
 •	Basisfunktion für die Umfragen implementieren.
 
 Meilenstein 3: Erweiterte Funktionen und Speicherung (bis 21.02.2025)
@@ -87,7 +88,17 @@ Meilenstein 5: Projektabschluss (bis 07.03.2025)
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+### 3.1 Gründe für die Wahl der Technologie
+
+Nach gründlicher Analyse der möglichen Technologien haben wir uns entschieden, HTML, CSS und JavaScript fürs Frontend und MongoDB für das Backend zu nutzen. Die Entscheidung beruht auf folgenden Überlegungen:
+1.	Kenntnisse seit über einem Jahr:  HTML und CSS, JavaScript und MongoDB benutzen wir schon seit mehr als einem Jahr, sodass uns dies die Entwicklung schneller ermöglicht, da wir uns nicht erst in eine neue Sprache einarbeiten müssen. sondern wir das Gelernte einfach anwenden können.
+2.	Single-Page-Applikation: Da unsere Website Daten speichern soll und sie interaktiv ist, eignet sich eine SPA besser als eine MPA.
+
+Abgelehnte Alternativen:
+•	Konsolen-App mit C#: Zu wenig Spielraum für das Design und gewisse Funktionen sind da schwieriger zu implementieren.
+•	Mobile-App mit MAUI: Zu wenig Erfahrung mit der Sprache.
+
+
 
 ## 4 Realisieren
 
