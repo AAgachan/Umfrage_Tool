@@ -19,8 +19,11 @@ Simon Veljkovic, Agachan Atputharasa
 Projektidee:
 
 Wir haben uns als Gruppe dazu entschieden, das Projekt mit den Programmiersprachen HTML, CSS, JavaScript für das Frontend sowie MongoDB für das Backend zu einer Website umzusetzen. Diese Anwendung bietet dem Benutzer die Möglichkeit, eine feste Umfrage auszufüllen und auch eigene Umfragen zu erstellen und zu verwalten. Dabei werden wir die folgenden drei Hauptfunktionen implementieren:
+
 1.Korrekte Interaktion mit den Buttons: Nur eine Antwortmöglichkeit soll möglich sein.
+
 2.Login: Die Benutzer sollen sich mit Benutzername und Passwort einloggen können.
+
 3.Verwaltung: Antworten sollen gespeichert werden und die selbstkreierten Unfragen sollen gespeichert und gelöscht werden können.
 
 Projektorganisation:
@@ -142,35 +145,49 @@ Abgelehnte Alternativen:
 ### 4.1 Realisierungsbericht
 
 Meilenstein 1: Anforderungsanalyse und Entwurf (bis 17.01.2025)
+
 •	Projektidee und Hauptanforderungen festlegen.
+
 •	Anwendungsarchitektur und Mockups entwickeln.
 
 Ergebnis: Alles zeitlich erfüllt.
 
 Meilenstein 2: Grundlegende Funktionalitäten implementieren (bis 31.01.2025)
+
 •	Benutzeroberfläche entwerfen und erstellen.
+
 •	Login implementieren.
+
 •	Basisfunktion für die Umfragen implementieren.
 
 Ergebnis: Aufgrund eines Fehlers, welches später in einem anderen Feature passiert ist, mussten wir den Code umbauen. Dies hat leider dafür gesorgt, das man sich nicht mehr ausloggen kann.
 
 Meilenstein 3: Erweiterte Funktionen und Speicherung (bis 21.02.2025)
+
 •	Speicher- und Löschfunktion entwickeln (Backend).
+
 •	Grafische Auswertung per Diagramme.
+
 •	PDF und CSV Export implementieren.
 
 Ergebnis: Die grafische Auswertung per Diagramme funktionierte so schlecht, dass wir es leider nicht in unserem Code behalten konnten.
 
 Meilenstein 4: Fehlerbehebung und Optimierung (bis 28.02.2025)
+
 •	Systemtest: Alle Funktionen testen, Fehler beheben.
+
 •	Allfällige Design-Anpassungen vornehmen.
 
 Ergebnis: Keine Design-Anpassungen waren nötig, jedoch brauchten wir länger für den Systemtest, da unser Programm durch die genannten Fehler angefangen hat zu spinnen.
 
 Meilenstein 5: Projektabschluss (bis 07.03.2025)
+
 •	Dokumentation vervollständigen.
+
 •	Endgültige Testberichte erstellen.
+
 •	Fertige Version auf GitHub bereitstellen.
+
 •	Portfolioeintrag schreiben und abgeben.
 
 Ergebnis: Trotz nicht einwandfreiem Code waren diese Aufgaben noch rechtzeitig machbar.
