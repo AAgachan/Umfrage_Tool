@@ -23,10 +23,12 @@ Wir haben uns als Gruppe dazu entschieden, das Projekt mit den Programmiersprach
 2.Login: Die Benutzer sollen sich mit Benutzername und Passwort einloggen können.
 3.Verwaltung: Antworten sollen gespeichert werden und die selbstkreierten Unfragen sollen gespeichert und gelöscht werden können.
 
-Projektorganisation
+Projektorganisation:
+
 Wir haben dieses Projekt organisiert, indem wir eine Discord-Gruppe erstellt haben, GitHub zur Zusammenarbeit genutzt und Daily-Meetings vereinbart haben.
 
-Deklaration der Vorkenntnisse
+Deklaration der Vorkenntnisse:
+
 HTML: Gute Vorkenntnisse 
 CSS: Gute Vorkenntnisse
 JavaScript: Ordentliche Vorkenntnisse
