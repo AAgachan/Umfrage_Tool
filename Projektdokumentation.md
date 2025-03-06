@@ -61,7 +61,7 @@ Die Architektur der App basiert auf einer klaren Trennung der Verantwortlichkeit
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Website geöffnet | Alle Antwortmöglichkeiten werden angeklickt | Nur eine Antwort bleibt gespeichert |
 | 2.1  | Website geöffnet | Ganze Umfrage ausgefüllt | Auswertung als Diagrammform |
-| 3.1  | Website geöffnet | Eigene Umfrage erstellt | Die Umfrage wird automatisch gespeichert |
+| 3.1  | Website geöffnet, Eigene Umfrage erstellt | Umfrage speichern Button angeklickt | Die Umfrage wird gespeichert. |
 | 4.1  | Website geöffnet | Verwaltung der eigenen Umfragen | Bearbeiten/Löschen Button erscheint |
 
 ### 2.4 Meilensteine
@@ -112,22 +112,63 @@ Abgelehnte Alternativen:
 
 ## 4 Realisieren
 
-| AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
-| ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+### 4.1 Realisierungsbericht
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+Meilenstein 1: Anforderungsanalyse und Entwurf (bis 17.01.2025)
+•	Projektidee und Hauptanforderungen festlegen.
+•	Anwendungsarchitektur und Mockups entwickeln.
+
+Ergebnis: Alles zeitlich erfüllt.
+
+Meilenstein 2: Grundlegende Funktionalitäten implementieren (bis 31.01.2025)
+•	Benutzeroberfläche entwerfen und erstellen.
+•	Login implementieren.
+•	Basisfunktion für die Umfragen implementieren.
+
+Ergebnis: Aufgrund eines Fehlers, welches später in einem anderen Feature passiert ist, mussten wir den Code umbauen. Dies hat leider dafür gesorgt, das man sich nicht mehr ausloggen kann.
+
+Meilenstein 3: Erweiterte Funktionen und Speicherung (bis 21.02.2025)
+•	Speicher- und Löschfunktion entwickeln (Backend).
+•	Grafische Auswertung per Diagramme.
+•	PDF und CSV Export implementieren.
+
+Ergebnis: Die grafische Auswertung per Diagramme funktionierte so schlecht, dass wir es leider nicht in unserem Code behalten konnten.
+
+Meilenstein 4: Fehlerbehebung und Optimierung (bis 28.02.2025)
+•	Systemtest: Alle Funktionen testen, Fehler beheben.
+•	Allfällige Design-Anpassungen vornehmen.
+
+Ergebnis: Keine Design-Anpassungen waren nötig, jedoch brauchten wir länger für den Systemtest, da unser Programm durch die genannten Fehler angefangen hat zu spinnen.
+
+Meilenstein 5: Projektabschluss (bis 07.03.2025)
+•	Dokumentation vervollständigen.
+•	Endgültige Testberichte erstellen.
+•	Fertige Version auf GitHub bereitstellen.
+•	Portfolioeintrag schreiben und abgeben.
+
+Ergebnis: Trotz nicht einwandfreiem Code waren diese Aufgaben noch rechtzeitig machbar.
 
 ## 5 Kontrollieren
 
+### 5.1 Testumgebung
+
+Testumgebung: 
+Betriebssystem: Windows 11
+Entwicklungsumgebung: Microsoft Visual Studio Code 
+
+### 5.2 Testprotokoll
+
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | 07.03.2025 | OK | Simon Veljkovic |
+| 2.1  | 07.03.2025 | NOK | Simon Veljkovic |
+| 3.1  | 07.03.2025 | OK | Simon Veljkovic |
+| 4.1  | 07.03.2025 | OK | Simon Veljkovic |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+### 5.3 Testfazit
+
+Testfall 2 funktioniert nicht, da wir die grafische Darstellung per Diagramme nicht richtig umsetzen konnten. Alles andere ist aber zufriedenstellend.
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+
