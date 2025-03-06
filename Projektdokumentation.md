@@ -103,6 +103,11 @@ Abgelehnte Alternativen:
 •	Konsolen-App mit C#: Zu wenig Spielraum für das Design und gewisse Funktionen sind da schwieriger zu implementieren.
 •	Mobile-App mit MAUI: Zu wenig Erfahrung mit der Sprache.
 
+### 3.2 Präferenzmatrix
+
+![image](https://github.com/user-attachments/assets/473855f9-026a-41d1-b87b-b19e5911876d)
+
+
 
 
 ## 4 Realisieren
