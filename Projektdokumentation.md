@@ -5,8 +5,12 @@ Simon Veljkovic, Agachan Atputharasa
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 10.01.2025 | 0.0.1 | Wir haben den Projektantrag eingereicht und das Projekt begonnen. |
-| 17.01.2025 | 0.0.2 |                                                              |
+| 17.01.2025 | 0.0.2 | Wir haben unsere Planung vervollständigt und mit der Implementation der Grundfunktionen begonnen. |
 | 24.01.2025 | 0.0.3 |                                                              |
+| 31.01.2025 | 0.0.4 |                                                              |
+| 21.02.2025 | 0.0.5 |                                                              |
+| 28.02.2025 | 0.0.6 |                                                              |
+| 07.03.2025 | 1.0.0 | Wir haben die Dokumentation vervollständigt, den Mahara-Eintrag geschrieben und das Projekt beendet. |                                                             
 
 ## 1 Informieren
 
