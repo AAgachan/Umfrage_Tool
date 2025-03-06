@@ -30,9 +30,13 @@ Wir haben dieses Projekt organisiert, indem wir eine Discord-Gruppe erstellt hab
 Deklaration der Vorkenntnisse:
 
 HTML: Gute Vorkenntnisse 
+
 CSS: Gute Vorkenntnisse
+
 JavaScript: Ordentliche Vorkenntnisse
+
 MongoDB: Ordentliche Vorkenntnisse
+
 IPERKA: Sehr gute Kenntnisse, da wir es regelmässig im Lernatelier anwenden.
 
 
@@ -51,8 +55,11 @@ IPERKA: Sehr gute Kenntnisse, da wir es regelmässig im Lernatelier anwenden.
 ### 2.1 Software-Architektur
 
 Die Architektur der App basiert auf einer klaren Trennung der Verantwortlichkeiten:
+
 •	Frontend (UI): Verantwortlich für die Benutzeroberfläche und Interaktionen.
+
 •	Backend (Logik): Speicherung der Daten.
+
 •	Datenmanagement: Speicherung und Löschung der Berechnungen und Benutzerdaten.
 
 ### 2.2 Mockup
@@ -73,27 +80,41 @@ Die Architektur der App basiert auf einer klaren Trennung der Verantwortlichkeit
 ### 2.4 Meilensteine
 
 Meilenstein 1: Anforderungsanalyse und Entwurf (bis 17.01.2025)
+
 •	Projektidee und Hauptanforderungen festlegen.
+
 •	Anwendungsarchitektur und Mockups entwickeln.
 
 Meilenstein 2: Grundlegende Funktionalitäten implementieren (bis 31.01.2025)
+
 •	Benutzeroberfläche entwerfen und erstellen.
+
 •	Login implementieren.
+
 •	Basisfunktion für die Umfragen implementieren.
 
 Meilenstein 3: Erweiterte Funktionen und Speicherung (bis 21.02.2025)
+
 •	Speicher- und Löschfunktion entwickeln (Backend).
+
 •	Grafische Auswertung per Diagramme.
+
 •	PDF und CSV Export implementieren.
 
 Meilenstein 4: Fehlerbehebung und Optimierung (bis 28.02.2025)
+
 •	Systemtest: Alle Funktionen testen, Fehler beheben.
+
 •	Allfällige Design-Anpassungen vornehmen.
 
 Meilenstein 5: Projektabschluss (bis 07.03.2025)
+
 •	Dokumentation vervollständigen.
+
 •	Endgültige Testberichte erstellen.
+
 •	Fertige Version auf GitHub bereitstellen.
+
 •	Portfolioeintrag schreiben und abgeben.
 
 
