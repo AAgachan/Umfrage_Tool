@@ -49,8 +49,13 @@ Die Architektur der App basiert auf einer klaren Trennung der Verantwortlichkeit
 •	Backend (Logik): Speicherung der Daten.
 •	Datenmanagement: Speicherung und Löschung der Berechnungen und Benutzerdaten.
 
+### 2.2 Mockup
 
-### 2.2 Testfälle
+![image](https://github.com/user-attachments/assets/63466f97-9f2b-485c-b5ef-8dc8fc7f830c)
+
+
+
+### 2.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
@@ -59,7 +64,7 @@ Die Architektur der App basiert auf einer klaren Trennung der Verantwortlichkeit
 | 3.1  | Website geöffnet | Eigene Umfrage erstellt | Die Umfrage wird automatisch gespeichert |
 | 4.1  | Website geöffnet | Verwaltung der eigenen Umfragen | Bearbeiten/Löschen Button erscheint |
 
-### 2.3 Meilensteine
+### 2.4 Meilensteine
 
 Meilenstein 1: Anforderungsanalyse und Entwurf (bis 17.01.2025)
 •	Projektidee und Hauptanforderungen festlegen.
