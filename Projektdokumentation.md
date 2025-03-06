@@ -198,6 +198,7 @@ Ergebnis: Trotz nicht einwandfreiem Code waren diese Aufgaben noch rechtzeitig m
 
 Testumgebung: 
 Betriebssystem: Windows 11
+
 Entwicklungsumgebung: Microsoft Visual Studio Code 
 
 ### 5.2 Testprotokoll
