@@ -6,11 +6,9 @@ Simon Veljkovic, Agachan Atputharasa
 | ----- | ------- | ------------------------------------------------------------ |
 | 10.01.2025 | 0.0.1 | Wir haben den Projektantrag eingereicht und das Projekt begonnen. |
 | 17.01.2025 | 0.0.2 | Wir haben unsere Planung vervollständigt und mit der Implementation der Grundfunktionen begonnen. |
-| 24.01.2025 | 0.0.3 |                                                              |
-| 31.01.2025 | 0.0.4 |                                                              |
-| 21.02.2025 | 0.0.5 |                                                              |
-| 28.02.2025 | 0.0.6 |                                                              |
-| 07.03.2025 | 1.0.0 | Wir haben die Dokumentation vervollständigt, den Mahara-Eintrag geschrieben und das Projekt beendet. |                                                             
+| 24.01.2025 | 0.0.3 | Wir haben das Login implementiert. |
+| 31.01.2025 | 0.0.4 | Wir haben die Grundfunktionen für die Umfragen implementiert und mit dem Aufsetzen der DB begonnen. |                                            | 21.02.2025 | 0.0.5 | Wir haben die Speicher- und Löschfunktion umgesetzt und versucht, die Auswertung per Diagramme zu implementieren. |
+| 28.02.2025 | 0.0.6 | Wir haben den PDF/CSV Export eingebaut, und versucht, den Code von Fehlern zu befreien. |                                                        | 07.03.2025 | 1.0.0 | Wir haben die Dokumentation vervollständigt, den Mahara-Eintrag geschrieben und das Projekt beendet. |                                                             
 
 ## 1 Informieren
 
